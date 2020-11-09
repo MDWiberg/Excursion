@@ -1,0 +1,38 @@
+/* 
+  Excursion Project Stylesheet - index.html
+  Author: Matthew Wiberg 
+*/
+
+/*******************
+ GENERAL
+*******************/
+
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 25px;
+  color: gray;
+}
